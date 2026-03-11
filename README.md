@@ -1,4 +1,4 @@
-# Jobarranger unit testing tool framework using golang
+# Jobarranger automatic integration testing tool
 
 ## register_hosts Command
 
